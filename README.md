@@ -37,5 +37,5 @@ I'm an aspiring full-stack engineer currently diving deep into various programmi
 
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ashimwe-geoffrey/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ashimwe-geoffrey/)
 - Email: ashimwegeoffrey@gmail.com
