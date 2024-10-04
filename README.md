@@ -7,6 +7,10 @@
   <a href="mailto:ashimwegeoffrey@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshmweGeoffrey&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
 <p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast</p>
 
 <p align="center">
@@ -42,10 +46,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshmweGeoffrey&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🔥 GitHub Activity Graph
+## 🔥 GitHub Contributions Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AshmweGeoffrey&theme=react-dark" alt="Contribution Graph" />
+  <a href="https://github.com/AshmweGeoffrey/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmweGeoffrey&theme=react-dark" alt="Ashimwe Geoffrey's GitHub Activity Graph">
+  </a>
 </p>
 
 ## 📈 Most Used Languages
