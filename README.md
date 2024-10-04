@@ -1,13 +1,11 @@
-<h1 align="center">John Doe</h1>
+<h1 align="center">Ashimwe Geoffrey</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/johndoe"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://johndoe.dev"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:john@doe.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-<p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast | Open Source Contributor</p>
+<p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -27,66 +25,22 @@
 ## 🧰 Skills & Expertise
 
 - **Languages:** Python, JavaScript, C, Shell Scripting
-- **Web Development:** Node.js, Express.js, HTML5, CSS3
+- **Web Development:** Node.js, Express.js, HTML, CSS
 - **Databases:** MySQL, MongoDB, Redis
-- **DevOps:** Git, Docker, CI/CD, Server Management
-- **Cloud Platforms:** AWS, Google Cloud Platform
-- **Other:** RESTful APIs, Microservices Architecture, Agile Methodologies
+- **DevOps:** Git, Server Management
+- **Other:** SQL, DevOps
 
-## 🏆 Key Projects
+## 🚀 Projects
 
-### Project Alpha: Real-time Data Processing Pipeline
-*Python | Apache Kafka | Redis | MongoDB*
-
-A high-throughput data processing system capable of handling millions of events per second.
-
-- Implemented a fault-tolerant architecture using Kafka for message queuing
-- Utilized Redis for caching and MongoDB for persistent storage
-- Achieved 99.99% uptime and reduced data processing latency by 70%
-
-[View Project](https://github.com/johndoe/project-alpha) | [Live Demo](https://project-alpha.johndoe.dev)
-
-### Project Beta: Enterprise Resource Planning (ERP) System
-*Node.js | Express.js | MySQL | React*
-
-A comprehensive ERP solution for small to medium-sized businesses.
-
-- Designed and implemented a modular backend architecture
-- Created a responsive front-end using React and Material-UI
-- Integrated with various third-party APIs for enhanced functionality
-
-[View Project](https://github.com/johndoe/project-beta) | [Case Study](https://johndoe.dev/case-studies/erp-system)
+[Here you can add your key projects with brief descriptions and technologies used]
 
 ## 💼 Professional Experience
 
-**Senior Software Engineer** @ TechCorp Inc. *(Jan 2020 - Present)*
-- Lead a team of 5 developers in designing and implementing microservices architecture
-- Reduced system downtime by 40% through implementation of robust DevOps practices
-- Mentored junior developers and conducted code reviews to ensure code quality
-
-**Software Developer** @ InnovateTech LLC *(Mar 2017 - Dec 2019)*
-- Developed and maintained multiple full-stack web applications
-- Implemented CI/CD pipelines, reducing deployment time by 60%
-- Optimized database queries, improving application performance by 35%
-
-## 🎓 Education
-
-**Master of Science in Computer Science**  
-Stanford University *(2015 - 2017)*
-
-**Bachelor of Science in Software Engineering**  
-Massachusetts Institute of Technology *(2011 - 2015)*
-
-## 📜 Certifications
-
-- AWS Certified Solutions Architect – Associate
-- MongoDB Certified Developer
-- Docker Certified Associate
+[You can add your work experience here]
 
 ## 🌟 Open Source Contributions
 
-- [Project Gamma](https://github.com/project-gamma): Core contributor, implemented key features
-- [Library Delta](https://github.com/library-delta): Created comprehensive documentation and examples
+[If you have any open source contributions, you can list them here]
 
 ---
 
