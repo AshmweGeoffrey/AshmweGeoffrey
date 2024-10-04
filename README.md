@@ -50,13 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmweGeoffrey&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-## 🚀 Projects
-
-[Here you can add your key projects with brief descriptions and technologies used]
-
----
-
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
-</p>
+i</p>
