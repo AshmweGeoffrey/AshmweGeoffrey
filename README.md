@@ -13,7 +13,7 @@
 
 <p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast</p>
 
-## 🏆 GitHub Trophies
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
