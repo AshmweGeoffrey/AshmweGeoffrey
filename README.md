@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AshmweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-x-1DA1F2?style=flat-square&logo=x&logoColor=Black" alt="X"></a>
   <a href="mailto:ashimwegeoffrey@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
